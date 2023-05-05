@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o3corxyr9cu6v3nn?svg=true)](https://ci.appveyor.com/project/Aleks282/patterns1)
+
 
 # Домашнее задание к занятию «2.3. Patterns»
 
